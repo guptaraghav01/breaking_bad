@@ -1,5 +1,6 @@
 {
   "name": "breaking-bad-cast",
+  "homepage": "https://guptaraghav01.github.io/breaking_bad",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
